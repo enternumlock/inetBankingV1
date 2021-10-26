@@ -1,0 +1,719 @@
+2021-09-23 22:53:56,195 - inetBankingV1 -INFO - URL is opened
+2021-09-23 22:53:56,651 - inetBankingV1 -INFO - Entered Username
+2021-09-23 22:53:56,868 - inetBankingV1 -INFO - Entered Password
+2021-09-23 22:53:58,287 - inetBankingV1 -INFO - Login test passed
+2021-09-23 22:54:58,114 - inetBankingV1 -INFO - URL is opened
+2021-09-23 22:54:58,488 - inetBankingV1 -INFO - Entered Username
+2021-09-23 22:54:58,705 - inetBankingV1 -INFO - Entered Password
+2021-09-23 22:54:59,856 - inetBankingV1 -INFO - Login test passed
+2021-09-24 00:23:46,352 - inetBankingV1 -INFO - URL is opened
+2021-09-24 00:23:46,921 - inetBankingV1 -INFO - Entered Username
+2021-09-24 00:23:47,162 - inetBankingV1 -INFO - Entered Password
+2021-09-24 00:27:24,911 - inetBankingV1 -INFO - URL is opened
+2021-09-24 00:27:25,350 - inetBankingV1 -INFO - Entered Username
+2021-09-24 00:27:25,566 - inetBankingV1 -INFO - Entered Password
+2021-09-24 00:29:35,719 - inetBankingV1 -INFO - URL is opened
+2021-09-24 00:29:36,160 - inetBankingV1 -INFO - Entered Username
+2021-09-24 00:29:36,401 - inetBankingV1 -INFO - Entered Password
+2021-09-24 00:29:36,799 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-24 00:33:53,084 - inetBankingV1 -INFO - URL is opened
+2021-09-24 00:33:53,485 - inetBankingV1 -INFO - Entered Username
+2021-09-24 00:33:53,696 - inetBankingV1 -INFO - Entered Password
+2021-09-24 00:33:55,542 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-24 00:33:55,584 - inetBankingV1 -INFO - Login test passed
+2021-09-24 09:24:10,577 - inetBankingV1 -INFO - URL is opened
+2021-09-24 09:24:11,260 - inetBankingV1 -INFO - Entered Username
+2021-09-24 09:24:11,591 - inetBankingV1 -INFO - Entered Password
+2021-09-24 09:24:12,789 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-24 09:24:12,835 - inetBankingV1 -INFO - Login test passed
+2021-09-24 09:29:02,644 - inetBankingV1 -INFO - URL is opened
+2021-09-24 09:29:03,106 - inetBankingV1 -INFO - Entered Username
+2021-09-24 09:29:03,325 - inetBankingV1 -INFO - Entered Password
+2021-09-24 09:29:04,631 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-24 09:29:05,644 - inetBankingV1 -INFO - Logout Button Clicked
+2021-09-24 10:06:15,478 - inetBankingV1 -INFO - URL Opened
+2021-09-24 10:06:16,065 - inetBankingV1 -INFO - Entered username
+2021-09-24 10:06:16,249 - inetBankingV1 -INFO - Entered password
+2021-09-24 10:06:17,461 - inetBankingV1 -INFO - login btn clicked
+2021-09-24 10:06:18,254 - inetBankingV1 -INFO - logout btn clicked
+2021-09-24 10:13:05,857 - inetBankingV1 -INFO - URL Opened
+2021-09-24 10:13:06,224 - inetBankingV1 -INFO - Entered username
+2021-09-24 10:13:06,464 - inetBankingV1 -INFO - Entered password
+2021-09-24 10:13:07,442 - inetBankingV1 -INFO - login btn clicked
+2021-09-24 10:13:08,067 - inetBankingV1 -INFO - logout btn clicked
+2021-09-24 10:14:31,793 - inetBankingV1 -INFO - URL Opened
+2021-09-24 10:14:32,213 - inetBankingV1 -INFO - Entered username
+2021-09-24 10:14:32,436 - inetBankingV1 -INFO - Entered password
+2021-09-24 10:14:33,302 - inetBankingV1 -INFO - login btn clicked
+2021-09-24 10:14:34,179 - inetBankingV1 -INFO - logout btn clicked
+2021-09-24 10:18:21,257 - inetBankingV1 -INFO - URL Opened
+2021-09-24 10:18:21,964 - inetBankingV1 -INFO - Entered username
+2021-09-24 10:18:22,300 - inetBankingV1 -INFO - Entered password
+2021-09-24 10:18:23,576 - inetBankingV1 -INFO - login btn clicked
+2021-09-24 10:18:24,334 - inetBankingV1 -INFO - logout btn clicked
+2021-09-24 10:20:07,796 - inetBankingV1 -INFO - URL Opened
+2021-09-24 10:20:08,421 - inetBankingV1 -INFO - Entered username
+2021-09-24 10:20:08,737 - inetBankingV1 -INFO - Entered password
+2021-09-24 10:20:10,322 - inetBankingV1 -INFO - login btn clicked
+2021-09-24 10:20:11,289 - inetBankingV1 -INFO - logout btn clicked
+2021-09-24 10:20:44,229 - inetBankingV1 -INFO - URL Opened
+2021-09-24 10:20:45,060 - inetBankingV1 -INFO - Entered username
+2021-09-24 10:20:45,481 - inetBankingV1 -INFO - Entered password
+2021-09-24 10:20:46,907 - inetBankingV1 -INFO - login btn clicked
+2021-09-24 10:20:47,716 - inetBankingV1 -INFO - logout btn clicked
+2021-09-24 10:22:50,676 - inetBankingV1 -INFO - URL Opened
+2021-09-24 10:22:51,379 - inetBankingV1 -INFO - Entered username
+2021-09-24 10:22:51,671 - inetBankingV1 -INFO - Entered password
+2021-09-24 10:22:52,675 - inetBankingV1 -INFO - login btn clicked
+2021-09-24 10:22:53,285 - inetBankingV1 -INFO - logout btn clicked
+2021-09-24 10:24:39,168 - inetBankingV1 -INFO - URL Opened
+2021-09-24 10:24:40,157 - inetBankingV1 -INFO - Entered username
+2021-09-24 10:24:40,616 - inetBankingV1 -INFO - Entered password
+2021-09-24 10:24:42,333 - inetBankingV1 -INFO - login btn clicked
+2021-09-24 10:24:43,431 - inetBankingV1 -INFO - logout btn clicked
+2021-09-24 10:26:00,162 - inetBankingV1 -INFO - URL Opened
+2021-09-24 10:26:00,907 - inetBankingV1 -INFO - Entered username
+2021-09-24 10:26:01,209 - inetBankingV1 -INFO - Entered password
+2021-09-24 10:26:02,560 - inetBankingV1 -INFO - login btn clicked
+2021-09-24 10:26:03,306 - inetBankingV1 -INFO - logout btn clicked
+2021-09-24 10:26:03,885 - inetBankingV1 -INFO - Logout test passed
+2021-09-24 11:13:41,098 - inetBankingV1 -INFO - URL is opened
+2021-09-24 11:13:41,507 - inetBankingV1 -INFO - Entered Username
+2021-09-24 11:13:41,716 - inetBankingV1 -INFO - Entered Password
+2021-09-24 11:13:42,762 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-24 11:13:42,786 - inetBankingV1 -INFO - Login test passed
+2021-09-24 11:14:01,288 - inetBankingV1 -INFO - URL is opened
+2021-09-24 11:14:01,654 - inetBankingV1 -INFO - Entered Username
+2021-09-24 11:14:01,872 - inetBankingV1 -INFO - Entered Password
+2021-09-24 11:14:03,183 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-24 11:14:03,209 - inetBankingV1 -INFO - Login test passed
+2021-09-24 23:37:25,696 - inetBankingV1 -INFO - URL is opened
+2021-09-24 23:37:26,191 - inetBankingV1 -INFO - Entered Username
+2021-09-24 23:37:26,430 - inetBankingV1 -INFO - Entered Password
+2021-09-24 23:37:27,566 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-24 23:37:27,615 - inetBankingV1 -INFO - Login test passed
+2021-09-24 23:40:51,878 - inetBankingV1 -INFO - URL is opened
+2021-09-24 23:40:52,343 - inetBankingV1 -INFO - Entered Username
+2021-09-24 23:40:52,570 - inetBankingV1 -INFO - Entered Password
+2021-09-24 23:40:53,677 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-24 23:40:53,708 - inetBankingV1 -INFO - Login test passed
+2021-09-24 23:44:26,348 - inetBankingV1 -INFO - URL is opened
+2021-09-24 23:44:26,766 - inetBankingV1 -INFO - Entered Username
+2021-09-24 23:44:27,016 - inetBankingV1 -INFO - Entered Password
+2021-09-24 23:44:28,187 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-24 23:44:28,217 - inetBankingV1 -INFO - Login test passed
+2021-09-24 23:47:18,139 - inetBankingV1 -INFO - URL is opened
+2021-09-24 23:47:18,515 - inetBankingV1 -INFO - Entered Username
+2021-09-24 23:47:18,746 - inetBankingV1 -INFO - Entered Password
+2021-09-24 23:47:19,950 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-24 23:47:19,974 - inetBankingV1 -INFO - Login test passed
+2021-09-25 00:15:00,539 - inetBankingV1 -INFO - URL is opened
+2021-09-25 00:15:01,306 - inetBankingV1 -INFO - Entered Username
+2021-09-25 00:15:01,546 - inetBankingV1 -INFO - Entered Password
+2021-09-25 00:15:02,768 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-25 00:15:02,823 - inetBankingV1 -INFO - Login test passed
+2021-09-25 00:15:49,097 - inetBankingV1 -INFO - URL is opened
+2021-09-25 00:15:49,644 - inetBankingV1 -INFO - Entered Username
+2021-09-25 00:15:49,915 - inetBankingV1 -INFO - Entered Password
+2021-09-25 00:15:51,002 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-25 00:15:51,030 - inetBankingV1 -INFO - Login test passed
+2021-09-25 00:16:52,376 - inetBankingV1 -INFO - URL is opened
+2021-09-25 00:16:52,880 - inetBankingV1 -INFO - Entered Username
+2021-09-25 00:16:53,148 - inetBankingV1 -INFO - Entered Password
+2021-09-25 00:16:54,309 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-25 00:16:54,336 - inetBankingV1 -INFO - Login test passed
+2021-09-25 00:44:00,814 - inetBankingV1 -INFO - URL is opened
+2021-09-25 00:44:01,205 - inetBankingV1 -INFO - Entered Username
+2021-09-25 00:44:01,445 - inetBankingV1 -INFO - Entered Password
+2021-09-25 00:44:02,557 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-25 00:44:02,585 - inetBankingV1 -INFO - Login test passed
+2021-09-25 00:45:07,263 - inetBankingV1 -INFO - URL is opened
+2021-09-25 00:45:07,611 - inetBankingV1 -INFO - Entered Username
+2021-09-25 00:45:07,873 - inetBankingV1 -INFO - Entered Password
+2021-09-25 00:45:08,999 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-25 00:45:09,023 - inetBankingV1 -INFO - Login test passed
+2021-09-25 00:45:41,061 - inetBankingV1 -INFO - URL is opened
+2021-09-25 00:45:41,447 - inetBankingV1 -INFO - Entered Username
+2021-09-25 00:45:41,690 - inetBankingV1 -INFO - Entered Password
+2021-09-25 00:45:42,822 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-25 00:45:42,847 - inetBankingV1 -INFO - Login test passed
+2021-09-25 06:53:53,902 - inetBankingV1 -INFO - URL is opened
+2021-09-25 06:53:54,440 - inetBankingV1 -INFO - Entered Username
+2021-09-25 06:53:54,712 - inetBankingV1 -INFO - Entered Password
+2021-09-25 06:53:55,876 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-25 06:53:55,905 - inetBankingV1 -INFO - Login test passed
+2021-09-25 06:57:12,700 - inetBankingV1 -INFO - URL is opened
+2021-09-25 06:57:13,071 - inetBankingV1 -INFO - Entered Username
+2021-09-25 06:57:13,278 - inetBankingV1 -INFO - Entered Password
+2021-09-25 06:57:14,480 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-25 06:57:14,502 - inetBankingV1 -INFO - Login test passed
+2021-09-25 07:21:59,382 - inetBankingV1 -INFO - URL is opened
+2021-09-25 07:21:59,781 - inetBankingV1 -INFO - Entered Username
+2021-09-25 07:21:59,783 - inetBankingV1 -INFO - Entered Password
+2021-09-25 07:22:00,386 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-25 07:31:13,732 - inetBankingV1 -INFO - URL is opened
+2021-09-25 07:31:14,097 - inetBankingV1 -INFO - Entered Username
+2021-09-25 07:31:14,323 - inetBankingV1 -INFO - Entered Password
+2021-09-25 07:31:15,394 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-25 07:31:15,431 - inetBankingV1 -INFO - Login test passed
+2021-09-26 21:49:12,210 - inetBankingV1 -INFO - URL is opened
+2021-09-26 21:49:13,248 - inetBankingV1 -INFO - Entered Username
+2021-09-26 21:49:13,437 - inetBankingV1 -INFO - Entered Password
+2021-09-26 21:49:15,377 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-26 21:49:15,449 - inetBankingV1 -INFO - Login test passed
+2021-09-26 21:54:41,378 - inetBankingV1 -INFO - URL is opened
+2021-09-26 21:54:41,769 - inetBankingV1 -INFO - Entered Username
+2021-09-26 21:54:41,991 - inetBankingV1 -INFO - Entered Password
+2021-09-26 21:54:43,349 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-26 21:54:43,377 - inetBankingV1 -INFO - Login test passed
+2021-09-26 21:54:51,200 - inetBankingV1 -INFO - URL Opened
+2021-09-26 21:54:51,422 - inetBankingV1 -INFO - Entered username
+2021-09-26 21:54:51,605 - inetBankingV1 -INFO - Entered password
+2021-09-26 21:54:52,884 - inetBankingV1 -INFO - login btn clicked
+2021-09-26 21:54:53,612 - inetBankingV1 -INFO - logout btn clicked
+2021-09-26 21:54:54,862 - inetBankingV1 -INFO - Logout test passed
+2021-09-27 04:48:03,616 - inetBankingV1 -INFO - URL is opened
+2021-09-27 04:48:04,399 - inetBankingV1 -INFO - Entered Username
+2021-09-27 04:48:04,609 - inetBankingV1 -INFO - Entered Password
+2021-09-27 04:48:06,263 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-27 04:48:06,311 - inetBankingV1 -INFO - Login test passed
+2021-09-27 04:49:13,438 - inetBankingV1 -INFO - URL is opened
+2021-09-27 04:49:14,175 - inetBankingV1 -INFO - Entered Username
+2021-09-27 04:49:14,481 - inetBankingV1 -INFO - Entered Password
+2021-09-27 04:49:16,027 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-27 04:49:16,048 - inetBankingV1 -INFO - Login test passed
+2021-09-27 04:49:27,112 - inetBankingV1 -INFO - URL Opened
+2021-09-27 04:49:27,381 - inetBankingV1 -INFO - Entered username
+2021-09-27 04:49:27,589 - inetBankingV1 -INFO - Entered password
+2021-09-27 04:49:28,698 - inetBankingV1 -INFO - login btn clicked
+2021-09-27 04:49:30,275 - inetBankingV1 -INFO - logout btn clicked
+2021-09-27 04:49:31,058 - inetBankingV1 -INFO - Logout test passed
+2021-09-27 04:54:26,606 - inetBankingV1 -INFO - URL is opened
+2021-09-27 04:54:27,080 - inetBankingV1 -INFO - Entered Username
+2021-09-27 04:54:27,294 - inetBankingV1 -INFO - Entered Password
+2021-09-27 04:54:28,362 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-27 04:54:28,387 - inetBankingV1 -INFO - Login test passed
+2021-09-27 04:54:36,765 - inetBankingV1 -INFO - URL Opened
+2021-09-27 04:54:36,978 - inetBankingV1 -INFO - Entered username
+2021-09-27 04:54:37,197 - inetBankingV1 -INFO - Entered password
+2021-09-27 04:54:39,093 - inetBankingV1 -INFO - login btn clicked
+2021-09-27 04:54:41,192 - inetBankingV1 -INFO - Logout test passed
+2021-09-27 04:55:45,398 - inetBankingV1 -INFO - URL is opened
+2021-09-27 04:55:45,792 - inetBankingV1 -INFO - Entered Username
+2021-09-27 04:55:46,042 - inetBankingV1 -INFO - Entered Password
+2021-09-27 04:55:47,634 - inetBankingV1 -INFO - Login Button Clicked
+2021-09-27 04:55:47,666 - inetBankingV1 -INFO - Login test passed
+2021-09-27 04:55:56,543 - inetBankingV1 -INFO - URL Opened
+2021-09-27 04:55:56,770 - inetBankingV1 -INFO - Entered username
+2021-09-27 04:55:56,982 - inetBankingV1 -INFO - Entered password
+2021-09-27 04:55:58,194 - inetBankingV1 -INFO - login btn clicked
+2021-10-03 05:23:39,679 - inetBankingV1 -INFO - URL is opened
+2021-10-03 05:23:40,333 - inetBankingV1 -INFO - Entered Username
+2021-10-03 05:23:40,583 - inetBankingV1 -INFO - Entered Password
+2021-10-03 05:23:41,667 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-03 05:23:41,711 - inetBankingV1 -INFO - Login test passed
+2021-10-03 05:23:49,091 - inetBankingV1 -INFO - URL Opened
+2021-10-03 05:23:49,358 - inetBankingV1 -INFO - Entered username
+2021-10-03 05:23:49,570 - inetBankingV1 -INFO - Entered password
+2021-10-03 05:23:50,762 - inetBankingV1 -INFO - login btn clicked
+2021-10-03 05:23:51,342 - inetBankingV1 -INFO - logout btn clicked
+2021-10-03 05:23:51,958 - inetBankingV1 -INFO - Logout test passed
+2021-10-03 06:07:52,038 - inetBankingV1 -INFO - URL is opened
+2021-10-03 06:07:52,500 - inetBankingV1 -INFO - Entered Username
+2021-10-03 06:07:52,728 - inetBankingV1 -INFO - Entered Password
+2021-10-03 06:07:54,645 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-03 06:08:02,656 - inetBankingV1 -INFO - URL Opened
+2021-10-03 06:08:03,020 - inetBankingV1 -INFO - Entered username
+2021-10-03 06:08:03,217 - inetBankingV1 -INFO - Entered password
+2021-10-03 06:08:04,105 - inetBankingV1 -INFO - login btn clicked
+2021-10-03 06:08:04,699 - inetBankingV1 -INFO - logout btn clicked
+2021-10-03 06:08:05,403 - inetBankingV1 -INFO - Logout test passed
+2021-10-03 21:12:50,280 - inetBankingV1 -INFO - user name provided
+2021-10-03 21:12:50,582 - inetBankingV1 -INFO - password provided
+2021-10-03 21:12:54,939 - inetBankingV1 -INFO - Login passed..
+2021-10-03 21:12:59,792 - inetBankingV1 -INFO - user name provided
+2021-10-03 21:12:59,969 - inetBankingV1 -INFO - password provided
+2021-10-03 21:13:04,743 - inetBankingV1 -INFO - user name provided
+2021-10-03 21:13:04,894 - inetBankingV1 -INFO - password provided
+2021-10-03 21:13:09,531 - inetBankingV1 -INFO - user name provided
+2021-10-03 21:13:09,687 - inetBankingV1 -INFO - password provided
+2021-10-03 21:13:13,259 - inetBankingV1 -INFO - Login passed..
+2021-10-03 21:13:17,730 - inetBankingV1 -INFO - user name provided
+2021-10-03 21:13:17,983 - inetBankingV1 -INFO - password provided
+2021-10-04 23:53:42,555 - inetBankingV1 -INFO - 
+2021-10-04 23:53:43,037 - inetBankingV1 -INFO - 
+2021-10-04 23:53:48,516 - inetBankingV1 -INFO - Add new Customer link clikcked...
+2021-10-04 23:53:48,759 - inetBankingV1 -INFO - Customer name entered
+2021-10-04 23:53:48,917 - inetBankingV1 -INFO - Gender entered
+2021-10-04 23:53:49,252 - inetBankingV1 -INFO - DOB entered
+2021-10-04 23:53:52,447 - inetBankingV1 -INFO - address entered
+2021-10-04 23:53:52,631 - inetBankingV1 -INFO - city entered
+2021-10-04 23:53:52,797 - inetBankingV1 -INFO - State entered
+2021-10-04 23:53:53,022 - inetBankingV1 -INFO - Pin number entered
+2021-10-04 23:53:53,254 - inetBankingV1 -INFO - Phone number entered
+2021-10-04 23:53:53,555 - inetBankingV1 -INFO - email entered.
+2021-10-04 23:53:53,717 - inetBankingV1 -INFO - submit button clicked.
+2021-10-05 00:17:00,686 - inetBankingV1 -INFO - username entered
+2021-10-05 00:17:00,973 - inetBankingV1 -INFO - password entered
+2021-10-05 00:17:02,387 - inetBankingV1 -INFO - login sucessfull...
+2021-10-05 00:17:06,181 - inetBankingV1 -INFO - Add new Customer link clikcked...
+2021-10-05 00:17:06,414 - inetBankingV1 -INFO - Customer name entered
+2021-10-05 00:17:06,558 - inetBankingV1 -INFO - Gender entered
+2021-10-05 00:17:06,970 - inetBankingV1 -INFO - DOB entered
+2021-10-05 00:17:10,182 - inetBankingV1 -INFO - address entered
+2021-10-05 00:17:10,376 - inetBankingV1 -INFO - city entered
+2021-10-05 00:17:10,552 - inetBankingV1 -INFO - State entered
+2021-10-05 00:17:10,806 - inetBankingV1 -INFO - Pin number entered
+2021-10-05 00:17:11,152 - inetBankingV1 -INFO - Phone number entered
+2021-10-05 00:17:11,482 - inetBankingV1 -INFO - email entered.
+2021-10-05 00:17:11,669 - inetBankingV1 -INFO - submit button clicked.
+2021-10-05 00:21:13,710 - inetBankingV1 -INFO - username entered
+2021-10-05 00:21:13,976 - inetBankingV1 -INFO - password entered
+2021-10-05 00:21:15,108 - inetBankingV1 -INFO - login sucessfull...
+2021-10-05 00:21:19,149 - inetBankingV1 -INFO - Add new Customer link clikcked...
+2021-10-05 00:21:19,443 - inetBankingV1 -INFO - Customer name entered
+2021-10-05 00:21:19,645 - inetBankingV1 -INFO - Gender entered
+2021-10-05 00:21:20,121 - inetBankingV1 -INFO - DOB entered
+2021-10-05 00:21:23,435 - inetBankingV1 -INFO - address entered
+2021-10-05 00:21:23,657 - inetBankingV1 -INFO - city entered
+2021-10-05 00:21:23,853 - inetBankingV1 -INFO - State entered
+2021-10-05 00:21:24,110 - inetBankingV1 -INFO - Pin number entered
+2021-10-05 00:21:24,361 - inetBankingV1 -INFO - Phone number entered
+2021-10-05 00:21:24,695 - inetBankingV1 -INFO - email entered.
+2021-10-05 00:21:24,866 - inetBankingV1 -INFO - submit button clicked.
+2021-10-05 00:21:27,878 - inetBankingV1 -INFO - validation started....
+2021-10-05 00:25:33,655 - inetBankingV1 -INFO - username entered
+2021-10-05 00:25:33,919 - inetBankingV1 -INFO - password entered
+2021-10-05 00:25:35,014 - inetBankingV1 -INFO - login sucessfull...
+2021-10-05 00:25:38,843 - inetBankingV1 -INFO - Add new Customer link clikcked...
+2021-10-05 00:25:39,100 - inetBankingV1 -INFO - Customer name entered
+2021-10-05 00:25:39,282 - inetBankingV1 -INFO - Gender entered
+2021-10-05 00:25:39,639 - inetBankingV1 -INFO - DOB entered
+2021-10-05 00:25:42,857 - inetBankingV1 -INFO - address entered
+2021-10-05 00:25:43,054 - inetBankingV1 -INFO - city entered
+2021-10-05 00:25:43,250 - inetBankingV1 -INFO - State entered
+2021-10-05 00:25:43,498 - inetBankingV1 -INFO - Pin number entered
+2021-10-05 00:25:43,731 - inetBankingV1 -INFO - Phone number entered
+2021-10-05 00:25:44,012 - inetBankingV1 -INFO - email entered.
+2021-10-05 00:25:44,176 - inetBankingV1 -INFO - submit button clicked....
+2021-10-05 00:25:47,191 - inetBankingV1 -INFO - validation started....
+2021-10-15 06:36:58,917 - inetBankingV1 -INFO - username entered
+2021-10-15 06:36:59,210 - inetBankingV1 -INFO - password entered
+2021-10-15 06:36:59,922 - inetBankingV1 -INFO - login sucessfull...
+2021-10-15 06:41:01,968 - inetBankingV1 -INFO - username entered
+2021-10-15 06:41:02,256 - inetBankingV1 -INFO - password entered
+2021-10-15 06:41:03,324 - inetBankingV1 -INFO - login sucessfull...
+2021-10-15 06:41:07,085 - inetBankingV1 -INFO - Add new Customer link clikcked...
+2021-10-15 06:41:07,295 - inetBankingV1 -INFO - Customer name entered
+2021-10-15 06:41:07,461 - inetBankingV1 -INFO - Gender entered
+2021-10-15 06:41:07,779 - inetBankingV1 -INFO - DOB entered
+2021-10-15 06:41:11,001 - inetBankingV1 -INFO - address entered
+2021-10-15 06:41:11,173 - inetBankingV1 -INFO - city entered
+2021-10-15 06:41:11,382 - inetBankingV1 -INFO - State entered
+2021-10-15 06:41:11,600 - inetBankingV1 -INFO - Pin number entered
+2021-10-15 06:41:11,831 - inetBankingV1 -INFO - Phone number entered
+2021-10-15 06:41:12,123 - inetBankingV1 -INFO - email entered.
+2021-10-15 06:41:12,281 - inetBankingV1 -INFO - submit button clicked....
+2021-10-15 06:41:15,296 - inetBankingV1 -INFO - validation started....
+2021-10-15 07:04:57,958 - inetBankingV1 -INFO - username entered
+2021-10-15 07:04:58,190 - inetBankingV1 -INFO - password entered
+2021-10-15 07:04:59,266 - inetBankingV1 -INFO - login sucessfull...
+2021-10-15 07:05:03,023 - inetBankingV1 -INFO - Add new Customer link clikcked...
+2021-10-15 07:05:03,301 - inetBankingV1 -INFO - Customer name entered
+2021-10-15 07:05:03,515 - inetBankingV1 -INFO - Gender entered
+2021-10-15 07:05:03,813 - inetBankingV1 -INFO - DOB entered
+2021-10-15 07:05:06,974 - inetBankingV1 -INFO - address entered
+2021-10-15 07:05:07,192 - inetBankingV1 -INFO - city entered
+2021-10-15 07:05:07,339 - inetBankingV1 -INFO - State entered
+2021-10-15 07:05:07,539 - inetBankingV1 -INFO - Pin number entered
+2021-10-15 07:05:07,693 - inetBankingV1 -INFO - Phone number entered
+2021-10-15 07:05:07,932 - inetBankingV1 -INFO - email entered.
+2021-10-15 07:16:39,412 - inetBankingV1 -INFO - username entered
+2021-10-15 07:16:39,789 - inetBankingV1 -INFO - password entered
+2021-10-15 07:16:41,726 - inetBankingV1 -INFO - login sucessfull...
+2021-10-15 07:16:45,839 - inetBankingV1 -INFO - Add new Customer link clikcked...
+2021-10-15 07:16:46,258 - inetBankingV1 -INFO - Customer name entered
+2021-10-15 07:16:46,443 - inetBankingV1 -INFO - Gender entered
+2021-10-15 07:16:47,025 - inetBankingV1 -INFO - DOB entered
+2021-10-15 07:16:50,291 - inetBankingV1 -INFO - address entered
+2021-10-15 07:16:50,510 - inetBankingV1 -INFO - city entered
+2021-10-15 07:16:50,805 - inetBankingV1 -INFO - State entered
+2021-10-15 07:16:51,071 - inetBankingV1 -INFO - Pin number entered
+2021-10-15 07:16:51,436 - inetBankingV1 -INFO - Phone number entered
+2021-10-15 07:16:51,748 - inetBankingV1 -INFO - email entered.
+2021-10-15 07:27:33,207 - inetBankingV1 -INFO - username entered
+2021-10-15 07:27:33,706 - inetBankingV1 -INFO - password entered
+2021-10-15 07:27:34,726 - inetBankingV1 -INFO - login sucessfull...
+2021-10-15 07:27:38,318 - inetBankingV1 -INFO - Add new Customer link clikcked...
+2021-10-15 07:27:38,574 - inetBankingV1 -INFO - Customer name entered
+2021-10-15 07:27:38,712 - inetBankingV1 -INFO - Gender entered
+2021-10-15 07:27:38,995 - inetBankingV1 -INFO - DOB entered
+2021-10-15 07:27:42,730 - inetBankingV1 -INFO - address entered
+2021-10-15 07:27:42,961 - inetBankingV1 -INFO - city entered
+2021-10-15 07:27:43,100 - inetBankingV1 -INFO - State entered
+2021-10-15 07:27:43,276 - inetBankingV1 -INFO - Pin number entered
+2021-10-15 07:27:43,437 - inetBankingV1 -INFO - Phone number entered
+2021-10-15 07:27:43,768 - inetBankingV1 -INFO - email entered.
+2021-10-15 07:27:43,953 - inetBankingV1 -INFO - submit button clicked....
+2021-10-15 07:27:46,959 - inetBankingV1 -INFO - validation started....
+2021-10-15 18:24:55,047 - inetBankingV1 -INFO - URL is opened
+2021-10-15 18:29:54,607 - inetBankingV1 -INFO - URL is opened
+2021-10-15 18:29:54,621 - inetBankingV1 -INFO - expectedTxt
+2021-10-15 18:29:54,727 - inetBankingV1 -INFO - actualText
+2021-10-15 18:29:54,733 - inetBankingV1 -INFO - Test Passed
+2021-10-15 18:32:13,966 - inetBankingV1 -INFO - URL is opened
+2021-10-15 18:32:13,979 - inetBankingV1 -INFO - expectedTxt
+2021-10-15 18:32:14,085 - inetBankingV1 -INFO - actualText
+2021-10-15 18:32:14,098 - inetBankingV1 -INFO - Test Passed
+2021-10-15 18:32:14,694 - inetBankingV1 -INFO - URL is opened
+2021-10-15 18:32:14,695 - inetBankingV1 -INFO - expectedTxt
+2021-10-15 18:32:14,750 - inetBankingV1 -INFO - actualText
+2021-10-15 18:45:17,663 - inetBankingV1 -INFO - URL is opened
+2021-10-15 18:45:17,678 - inetBankingV1 -INFO - expectedTxt
+2021-10-15 18:45:17,680 - inetBankingV1 -INFO - actualText
+2021-10-15 18:45:17,733 - inetBankingV1 -INFO - Test Passed
+2021-10-15 18:46:20,952 - inetBankingV1 -INFO - URL is opened
+2021-10-15 18:46:20,966 - inetBankingV1 -INFO - expectedTxt
+2021-10-15 18:46:20,967 - inetBankingV1 -INFO - actualText
+2021-10-15 18:47:43,054 - inetBankingV1 -INFO - URL is opened
+2021-10-15 18:47:43,068 - inetBankingV1 -INFO - expectedTxt
+2021-10-15 18:47:43,069 - inetBankingV1 -INFO - actualText
+2021-10-15 18:47:43,114 - inetBankingV1 -INFO - Test Failed
+2021-10-15 18:58:24,623 - inetBankingV1 -INFO - URL is opened
+2021-10-15 18:58:24,817 - inetBankingV1 -INFO - expectedTxt
+2021-10-15 18:58:24,819 - inetBankingV1 -INFO - actualText
+2021-10-15 18:58:24,825 - inetBankingV1 -INFO - Test Passed
+2021-10-15 19:07:54,507 - inetBankingV1 -INFO - URL is opened
+2021-10-15 19:07:55,116 - inetBankingV1 -INFO - URL is opened
+2021-10-15 19:11:38,140 - inetBankingV1 -INFO - URL is opened
+2021-10-15 19:11:38,754 - inetBankingV1 -INFO - URL is opened
+2021-10-15 19:13:23,091 - inetBankingV1 -INFO - URL is opened
+2021-10-15 19:13:24,121 - inetBankingV1 -INFO - URL is opened
+2021-10-15 19:16:46,275 - inetBankingV1 -INFO - URL is opened
+2021-10-15 19:16:46,504 - inetBankingV1 -INFO - expectedTxt
+2021-10-15 19:16:46,505 - inetBankingV1 -INFO - actualText
+2021-10-15 19:16:46,511 - inetBankingV1 -INFO - Test Passed
+2021-10-15 19:16:47,333 - inetBankingV1 -INFO - URL is opened
+2021-10-15 19:16:47,423 - inetBankingV1 -INFO - expectedTxt
+2021-10-15 19:16:47,424 - inetBankingV1 -INFO - actualText
+2021-10-15 19:16:47,425 - inetBankingV1 -INFO - Test Passed
+2021-10-15 19:25:39,759 - inetBankingV1 -INFO - URL is opened
+2021-10-15 19:25:39,969 - inetBankingV1 -INFO - expectedTxt
+2021-10-15 19:25:39,970 - inetBankingV1 -INFO - actualText
+2021-10-15 19:25:39,971 - inetBankingV1 -INFO - Test Failed
+2021-10-15 19:25:41,072 - inetBankingV1 -INFO - URL is opened
+2021-10-15 19:25:41,179 - inetBankingV1 -INFO - expectedTxt
+2021-10-15 19:25:41,181 - inetBankingV1 -INFO - actualText
+2021-10-15 19:25:41,182 - inetBankingV1 -INFO - Test Passed
+2021-10-17 20:22:42,122 - inetBankingV1 -INFO - URL is opened
+2021-10-17 20:22:42,880 - inetBankingV1 -INFO - Entered Username
+2021-10-17 20:22:43,156 - inetBankingV1 -INFO - Entered Password
+2021-10-17 20:22:44,373 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-17 20:22:44,401 - inetBankingV1 -INFO - Login test passed
+2021-10-17 20:22:52,365 - inetBankingV1 -INFO - URL Opened
+2021-10-17 20:22:52,612 - inetBankingV1 -INFO - Entered username
+2021-10-17 20:22:52,797 - inetBankingV1 -INFO - Entered password
+2021-10-17 20:22:54,389 - inetBankingV1 -INFO - login btn clicked
+2021-10-17 20:22:55,218 - inetBankingV1 -INFO - logout btn clicked
+2021-10-17 20:22:56,017 - inetBankingV1 -INFO - Logout test passed
+2021-10-18 01:56:25,828 - inetBankingV1 -INFO - URL is opened
+2021-10-18 01:56:26,328 - inetBankingV1 -INFO - Entered Username
+2021-10-18 01:56:26,597 - inetBankingV1 -INFO - Entered Password
+2021-10-18 01:56:27,654 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-18 01:56:27,681 - inetBankingV1 -INFO - Login test passed
+2021-10-18 01:56:35,422 - inetBankingV1 -INFO - URL Opened
+2021-10-18 01:56:35,727 - inetBankingV1 -INFO - Entered username
+2021-10-18 01:56:35,954 - inetBankingV1 -INFO - Entered password
+2021-10-18 01:56:37,032 - inetBankingV1 -INFO - login btn clicked
+2021-10-18 01:56:37,933 - inetBankingV1 -INFO - logout btn clicked
+2021-10-18 01:56:38,781 - inetBankingV1 -INFO - Logout test passed
+2021-10-18 02:01:59,360 - inetBankingV1 -INFO - URL is opened
+2021-10-18 02:01:59,748 - inetBankingV1 -INFO - Entered Username
+2021-10-18 02:01:59,969 - inetBankingV1 -INFO - Entered Password
+2021-10-18 02:02:01,272 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-18 02:02:01,303 - inetBankingV1 -INFO - Login test passed
+2021-10-18 02:02:08,305 - inetBankingV1 -INFO - URL Opened
+2021-10-18 02:02:08,582 - inetBankingV1 -INFO - Entered username
+2021-10-18 02:02:08,782 - inetBankingV1 -INFO - Entered password
+2021-10-18 02:02:09,834 - inetBankingV1 -INFO - login btn clicked
+2021-10-18 02:02:10,702 - inetBankingV1 -INFO - logout btn clicked
+2021-10-18 02:02:11,573 - inetBankingV1 -INFO - Logout test passed
+2021-10-18 02:13:21,686 - inetBankingV1 -INFO - URL is opened
+2021-10-18 02:13:22,097 - inetBankingV1 -INFO - Entered Username
+2021-10-18 02:13:22,342 - inetBankingV1 -INFO - Entered Password
+2021-10-18 02:13:23,386 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-18 02:13:23,415 - inetBankingV1 -INFO - Login test passed
+2021-10-18 02:13:30,901 - inetBankingV1 -INFO - URL Opened
+2021-10-18 02:13:31,191 - inetBankingV1 -INFO - Entered username
+2021-10-18 02:13:31,426 - inetBankingV1 -INFO - Entered password
+2021-10-18 02:13:32,583 - inetBankingV1 -INFO - login btn clicked
+2021-10-18 02:13:33,296 - inetBankingV1 -INFO - logout btn clicked
+2021-10-18 02:13:34,129 - inetBankingV1 -INFO - Logout test passed
+2021-10-18 02:14:39,011 - inetBankingV1 -INFO - URL is opened
+2021-10-18 02:14:39,584 - inetBankingV1 -INFO - Entered Username
+2021-10-18 02:14:39,828 - inetBankingV1 -INFO - Entered Password
+2021-10-18 02:14:40,779 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-18 02:14:40,795 - inetBankingV1 -INFO - Login test passed
+2021-10-18 02:14:47,522 - inetBankingV1 -INFO - URL Opened
+2021-10-18 02:14:47,817 - inetBankingV1 -INFO - Entered username
+2021-10-18 02:14:48,049 - inetBankingV1 -INFO - Entered password
+2021-10-18 02:14:49,050 - inetBankingV1 -INFO - login btn clicked
+2021-10-18 02:14:50,348 - inetBankingV1 -INFO - logout btn clicked
+2021-10-18 02:14:51,106 - inetBankingV1 -INFO - Logout test passed
+2021-10-18 02:28:02,690 - inetBankingV1 -INFO - URL is opened
+2021-10-18 02:28:03,110 - inetBankingV1 -INFO - Entered Username
+2021-10-18 02:28:03,300 - inetBankingV1 -INFO - Entered Password
+2021-10-18 02:28:04,307 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-18 02:28:04,389 - inetBankingV1 -INFO - Login test passed
+2021-10-18 02:28:10,779 - inetBankingV1 -INFO - URL Opened
+2021-10-18 02:28:11,070 - inetBankingV1 -INFO - Entered username
+2021-10-18 02:28:11,295 - inetBankingV1 -INFO - Entered password
+2021-10-18 02:28:12,431 - inetBankingV1 -INFO - login btn clicked
+2021-10-18 02:28:13,314 - inetBankingV1 -INFO - logout btn clicked
+2021-10-18 02:28:14,186 - inetBankingV1 -INFO - Logout test passed
+2021-10-18 02:31:02,820 - inetBankingV1 -INFO - URL is opened
+2021-10-18 02:31:03,213 - inetBankingV1 -INFO - Entered Username
+2021-10-18 02:31:03,412 - inetBankingV1 -INFO - Entered Password
+2021-10-18 02:31:04,540 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-18 02:31:04,573 - inetBankingV1 -INFO - Login test passed
+2021-10-18 02:31:11,814 - inetBankingV1 -INFO - URL Opened
+2021-10-18 02:31:12,039 - inetBankingV1 -INFO - Entered username
+2021-10-18 02:31:12,251 - inetBankingV1 -INFO - Entered password
+2021-10-18 02:31:13,199 - inetBankingV1 -INFO - login btn clicked
+2021-10-18 02:31:13,882 - inetBankingV1 -INFO - logout btn clicked
+2021-10-18 02:31:14,690 - inetBankingV1 -INFO - Logout test passed
+2021-10-19 23:13:12,412 - inetBankingV1 -INFO - URL is opened
+2021-10-19 23:13:12,886 - inetBankingV1 -INFO - Entered Username
+2021-10-19 23:13:13,103 - inetBankingV1 -INFO - Entered Password
+2021-10-19 23:13:13,989 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-19 23:13:14,015 - inetBankingV1 -INFO - Login test passed
+2021-10-19 23:13:19,874 - inetBankingV1 -INFO - URL Opened
+2021-10-19 23:13:20,099 - inetBankingV1 -INFO - Entered username
+2021-10-19 23:13:20,273 - inetBankingV1 -INFO - Entered password
+2021-10-19 23:13:21,123 - inetBankingV1 -INFO - login btn clicked
+2021-10-19 23:13:21,700 - inetBankingV1 -INFO - logout btn clicked
+2021-10-19 23:13:22,506 - inetBankingV1 -INFO - Logout test passed
+2021-10-20 01:22:21,850 - inetBankingV1 -INFO - URL is opened
+2021-10-20 01:22:23,402 - inetBankingV1 -INFO - Entered Username
+2021-10-20 01:22:23,649 - inetBankingV1 -INFO - Entered Password
+2021-10-20 01:22:25,395 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-20 01:22:25,419 - inetBankingV1 -INFO - Login test passed
+2021-10-20 01:22:34,970 - inetBankingV1 -INFO - URL Opened
+2021-10-20 01:22:35,281 - inetBankingV1 -INFO - Entered username
+2021-10-20 01:22:35,529 - inetBankingV1 -INFO - Entered password
+2021-10-20 01:22:36,584 - inetBankingV1 -INFO - login btn clicked
+2021-10-20 01:22:37,377 - inetBankingV1 -INFO - logout btn clicked
+2021-10-20 01:22:38,150 - inetBankingV1 -INFO - Logout test passed
+2021-10-20 01:28:57,000 - inetBankingV1 -INFO - URL is opened
+2021-10-20 01:28:57,580 - inetBankingV1 -INFO - Entered Username
+2021-10-20 01:28:57,797 - inetBankingV1 -INFO - Entered Password
+2021-10-20 01:28:58,936 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-20 01:28:58,968 - inetBankingV1 -INFO - Login test passed
+2021-10-20 01:29:06,817 - inetBankingV1 -INFO - URL Opened
+2021-10-20 01:29:07,099 - inetBankingV1 -INFO - Entered username
+2021-10-20 01:29:07,341 - inetBankingV1 -INFO - Entered password
+2021-10-20 01:29:08,411 - inetBankingV1 -INFO - login btn clicked
+2021-10-20 01:29:09,377 - inetBankingV1 -INFO - logout btn clicked
+2021-10-20 01:29:10,164 - inetBankingV1 -INFO - Logout test passed
+2021-10-20 01:50:42,995 - inetBankingV1 -INFO - URL is opened
+2021-10-20 01:50:43,384 - inetBankingV1 -INFO - Entered Username
+2021-10-20 01:50:43,618 - inetBankingV1 -INFO - Entered Password
+2021-10-20 01:50:44,596 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-20 01:50:44,624 - inetBankingV1 -INFO - Login test passed
+2021-10-20 01:50:52,594 - inetBankingV1 -INFO - URL Opened
+2021-10-20 01:50:52,890 - inetBankingV1 -INFO - Entered username
+2021-10-20 01:50:53,165 - inetBankingV1 -INFO - Entered password
+2021-10-20 01:50:54,586 - inetBankingV1 -INFO - login btn clicked
+2021-10-20 01:50:55,209 - inetBankingV1 -INFO - logout btn clicked
+2021-10-20 01:50:56,288 - inetBankingV1 -INFO - Logout test passed
+2021-10-20 05:40:07,644 - inetBankingV1 -INFO - URL is opened
+2021-10-20 05:40:07,989 - inetBankingV1 -INFO - Entered Username
+2021-10-20 05:40:08,177 - inetBankingV1 -INFO - Entered Password
+2021-10-20 05:40:09,077 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-20 05:40:09,106 - inetBankingV1 -INFO - Login test passed
+2021-10-20 05:40:16,712 - inetBankingV1 -INFO - URL Opened
+2021-10-20 05:40:16,940 - inetBankingV1 -INFO - Entered username
+2021-10-20 05:40:17,134 - inetBankingV1 -INFO - Entered password
+2021-10-20 05:40:18,409 - inetBankingV1 -INFO - login btn clicked
+2021-10-20 05:40:19,241 - inetBankingV1 -INFO - logout btn clicked
+2021-10-20 05:40:20,226 - inetBankingV1 -INFO - Logout test passed
+2021-10-20 05:41:42,219 - inetBankingV1 -INFO - URL is opened
+2021-10-20 05:41:42,550 - inetBankingV1 -INFO - Entered Username
+2021-10-20 05:41:42,740 - inetBankingV1 -INFO - Entered Password
+2021-10-20 05:41:43,685 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-20 05:41:43,707 - inetBankingV1 -INFO - Login test passed
+2021-10-20 05:41:50,604 - inetBankingV1 -INFO - URL Opened
+2021-10-20 05:41:50,879 - inetBankingV1 -INFO - Entered username
+2021-10-20 05:41:51,081 - inetBankingV1 -INFO - Entered password
+2021-10-20 05:41:52,100 - inetBankingV1 -INFO - login btn clicked
+2021-10-20 05:41:52,864 - inetBankingV1 -INFO - logout btn clicked
+2021-10-20 05:41:53,434 - inetBankingV1 -INFO - Logout test passed
+2021-10-21 01:50:21,057 - inetBankingV1 -INFO - URL is opened
+2021-10-21 01:50:21,604 - inetBankingV1 -INFO - Entered Username
+2021-10-21 01:50:21,825 - inetBankingV1 -INFO - Entered Password
+2021-10-21 01:50:22,808 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-21 01:50:22,828 - inetBankingV1 -INFO - Login test passed
+2021-10-21 16:17:14,064 - inetBankingV1 -INFO - URL is opened
+2021-10-21 16:17:14,961 - inetBankingV1 -INFO - Entered Username
+2021-10-21 16:17:15,146 - inetBankingV1 -INFO - Entered Password
+2021-10-21 16:17:16,868 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-21 16:17:16,883 - inetBankingV1 -INFO - Login test passed
+2021-10-21 16:29:23,752 - inetBankingV1 -INFO - URL is opened
+2021-10-21 16:29:24,534 - inetBankingV1 -INFO - Entered Username
+2021-10-21 16:29:24,735 - inetBankingV1 -INFO - Entered Password
+2021-10-21 16:29:26,640 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-21 16:29:26,662 - inetBankingV1 -INFO - Login test passed
+2021-10-21 16:29:45,702 - inetBankingV1 -INFO - URL Opened
+2021-10-21 16:29:46,031 - inetBankingV1 -INFO - Entered username
+2021-10-21 16:29:46,192 - inetBankingV1 -INFO - Entered password
+2021-10-21 16:29:54,133 - inetBankingV1 -INFO - login btn clicked
+2021-10-21 16:29:54,890 - inetBankingV1 -INFO - logout btn clicked
+2021-10-21 18:46:48,882 - inetBankingV1 -INFO - URL is opened
+2021-10-21 18:46:49,757 - inetBankingV1 -INFO - Entered Username
+2021-10-21 18:46:50,129 - inetBankingV1 -INFO - Entered Password
+2021-10-21 18:46:53,340 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-21 18:46:53,358 - inetBankingV1 -INFO - Login test passed
+2021-10-21 18:47:11,437 - inetBankingV1 -INFO - URL Opened
+2021-10-21 18:47:12,097 - inetBankingV1 -INFO - Entered username
+2021-10-21 18:47:12,279 - inetBankingV1 -INFO - Entered password
+2021-10-21 18:47:14,475 - inetBankingV1 -INFO - login btn clicked
+2021-10-21 18:47:15,739 - inetBankingV1 -INFO - logout btn clicked
+2021-10-21 18:53:43,832 - inetBankingV1 -INFO - URL is opened
+2021-10-21 18:53:44,647 - inetBankingV1 -INFO - Entered Username
+2021-10-21 18:53:44,841 - inetBankingV1 -INFO - Entered Password
+2021-10-21 18:53:46,589 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-21 18:53:46,724 - inetBankingV1 -INFO - Login test passed
+2021-10-21 18:54:15,055 - inetBankingV1 -INFO - URL Opened
+2021-10-21 18:54:15,545 - inetBankingV1 -INFO - Entered username
+2021-10-21 18:54:15,922 - inetBankingV1 -INFO - Entered password
+2021-10-21 18:54:17,691 - inetBankingV1 -INFO - login btn clicked
+2021-10-21 18:54:18,964 - inetBankingV1 -INFO - logout btn clicked
+2021-10-21 18:56:33,264 - inetBankingV1 -INFO - URL Opened
+2021-10-21 18:56:34,182 - inetBankingV1 -INFO - Entered username
+2021-10-21 18:56:34,714 - inetBankingV1 -INFO - Entered password
+2021-10-21 18:56:36,455 - inetBankingV1 -INFO - login btn clicked
+2021-10-21 18:56:37,556 - inetBankingV1 -INFO - logout btn clicked
+2021-10-21 18:56:38,588 - inetBankingV1 -INFO - Logout test passed
+2021-10-21 19:41:13,476 - inetBankingV1 -INFO - URL is opened
+2021-10-21 19:41:14,110 - inetBankingV1 -INFO - Entered Username
+2021-10-21 19:41:14,410 - inetBankingV1 -INFO - Entered Password
+2021-10-21 19:41:15,844 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-21 19:41:15,888 - inetBankingV1 -INFO - Login test passed
+2021-10-21 19:41:25,154 - inetBankingV1 -INFO - URL Opened
+2021-10-21 19:41:25,578 - inetBankingV1 -INFO - Entered username
+2021-10-21 19:41:25,899 - inetBankingV1 -INFO - Entered password
+2021-10-21 19:41:27,274 - inetBankingV1 -INFO - login btn clicked
+2021-10-21 19:41:28,116 - inetBankingV1 -INFO - logout btn clicked
+2021-10-21 19:41:28,983 - inetBankingV1 -INFO - Logout test passed
+2021-10-21 20:27:58,266 - inetBankingV1 -INFO - URL is opened
+2021-10-21 20:27:59,803 - inetBankingV1 -INFO - Entered Username
+2021-10-21 20:28:00,736 - inetBankingV1 -INFO - Entered Password
+2021-10-21 20:28:04,124 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-21 20:28:04,184 - inetBankingV1 -INFO - Login test passed
+2021-10-21 20:28:25,723 - inetBankingV1 -INFO - URL is opened
+2021-10-21 20:28:26,972 - inetBankingV1 -INFO - Entered Username
+2021-10-21 20:28:27,686 - inetBankingV1 -INFO - Entered Password
+2021-10-21 20:28:30,528 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-21 20:28:30,563 - inetBankingV1 -INFO - Login test passed
+2021-10-21 20:28:54,335 - inetBankingV1 -INFO - URL Opened
+2021-10-21 20:28:54,366 - inetBankingV1 -INFO - URL Opened
+2021-10-21 20:28:55,862 - inetBankingV1 -INFO - Entered username
+2021-10-21 20:28:55,908 - inetBankingV1 -INFO - Entered username
+2021-10-21 20:28:57,202 - inetBankingV1 -INFO - Entered password
+2021-10-21 20:28:58,059 - inetBankingV1 -INFO - Entered password
+2021-10-21 20:29:01,935 - inetBankingV1 -INFO - login btn clicked
+2021-10-21 20:29:04,293 - inetBankingV1 -INFO - login btn clicked
+2021-10-21 20:29:05,567 - inetBankingV1 -INFO - logout btn clicked
+2021-10-21 20:29:07,404 - inetBankingV1 -INFO - logout btn clicked
+2021-10-21 20:29:14,275 - inetBankingV1 -INFO - Logout test passed
+2021-10-21 20:33:00,981 - inetBankingV1 -INFO - URL is opened
+2021-10-21 20:33:02,276 - inetBankingV1 -INFO - Entered Username
+2021-10-21 20:33:02,804 - inetBankingV1 -INFO - Entered Password
+2021-10-21 20:33:05,633 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-21 20:33:05,663 - inetBankingV1 -INFO - Login test passed
+2021-10-21 20:33:24,652 - inetBankingV1 -INFO - URL Opened
+2021-10-21 20:33:25,337 - inetBankingV1 -INFO - Entered username
+2021-10-21 20:33:25,932 - inetBankingV1 -INFO - Entered password
+2021-10-21 20:33:28,072 - inetBankingV1 -INFO - login btn clicked
+2021-10-21 20:33:29,712 - inetBankingV1 -INFO - logout btn clicked
+2021-10-21 20:33:36,181 - inetBankingV1 -INFO - Logout test passed
+2021-10-24 22:23:15,997 - inetBankingV1 -INFO - URL Opened
+2021-10-24 22:23:17,822 - inetBankingV1 -INFO - Entered username
+2021-10-24 22:23:17,935 - inetBankingV1 -INFO - Entered password
+2021-10-24 22:23:21,844 - inetBankingV1 -INFO - login btn clicked
+2021-10-24 22:23:24,090 - inetBankingV1 -INFO - logout btn clicked
+2021-10-24 22:30:35,175 - inetBankingV1 -INFO - URL is opened
+2021-10-24 22:30:35,688 - inetBankingV1 -INFO - Entered Username
+2021-10-24 22:30:35,818 - inetBankingV1 -INFO - Entered Password
+2021-10-24 22:30:37,659 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-24 22:30:37,676 - inetBankingV1 -INFO - Login test passed
+2021-10-24 22:30:56,523 - inetBankingV1 -INFO - URL Opened
+2021-10-24 22:30:56,896 - inetBankingV1 -INFO - Entered username
+2021-10-24 22:30:57,013 - inetBankingV1 -INFO - Entered password
+2021-10-24 22:30:58,102 - inetBankingV1 -INFO - login btn clicked
+2021-10-24 22:30:59,195 - inetBankingV1 -INFO - logout btn clicked
+2021-10-24 22:34:14,997 - inetBankingV1 -INFO - username entered
+2021-10-24 22:34:15,206 - inetBankingV1 -INFO - password entered
+2021-10-24 22:34:16,340 - inetBankingV1 -INFO - login sucessfull...
+2021-10-24 22:34:20,331 - inetBankingV1 -INFO - Add new Customer link clikcked...
+2021-10-24 22:34:20,692 - inetBankingV1 -INFO - Customer name entered
+2021-10-24 22:34:21,017 - inetBankingV1 -INFO - Gender entered
+2021-10-24 22:34:21,412 - inetBankingV1 -INFO - DOB entered
+2021-10-24 22:34:24,702 - inetBankingV1 -INFO - address entered
+2021-10-24 22:34:24,927 - inetBankingV1 -INFO - city entered
+2021-10-24 22:34:25,140 - inetBankingV1 -INFO - State entered
+2021-10-24 22:34:25,402 - inetBankingV1 -INFO - Pin number entered
+2021-10-24 22:34:25,839 - inetBankingV1 -INFO - Phone number entered
+2021-10-24 22:34:26,229 - inetBankingV1 -INFO - email entered.
+2021-10-24 22:34:26,450 - inetBankingV1 -INFO - submit button clicked....
+2021-10-24 22:34:29,465 - inetBankingV1 -INFO - validation started....
+2021-10-24 23:02:13,797 - inetBankingV1 -INFO - URL Opened
+2021-10-24 23:02:14,547 - inetBankingV1 -INFO - Entered username
+2021-10-24 23:02:14,714 - inetBankingV1 -INFO - Entered password
+2021-10-24 23:02:16,257 - inetBankingV1 -INFO - login btn clicked
+2021-10-24 23:02:17,219 - inetBankingV1 -INFO - logout btn clicked
+2021-10-24 23:04:36,965 - inetBankingV1 -INFO - URL Opened
+2021-10-24 23:04:37,433 - inetBankingV1 -INFO - Entered username
+2021-10-24 23:04:37,594 - inetBankingV1 -INFO - Entered password
+2021-10-24 23:04:39,540 - inetBankingV1 -INFO - login btn clicked
+2021-10-24 23:04:40,709 - inetBankingV1 -INFO - logout btn clicked
+2021-10-24 23:06:11,561 - inetBankingV1 -INFO - URL Opened
+2021-10-24 23:06:12,078 - inetBankingV1 -INFO - Entered username
+2021-10-24 23:06:12,287 - inetBankingV1 -INFO - Entered password
+2021-10-24 23:06:14,053 - inetBankingV1 -INFO - login btn clicked
+2021-10-24 23:06:15,297 - inetBankingV1 -INFO - logout btn clicked
+2021-10-24 23:06:25,397 - inetBankingV1 -INFO - Logout test passed
+2021-10-24 23:50:27,538 - inetBankingV1 -INFO - URL Opened
+2021-10-24 23:50:28,325 - inetBankingV1 -INFO - Entered username
+2021-10-24 23:50:28,444 - inetBankingV1 -INFO - Entered password
+2021-10-24 23:50:29,902 - inetBankingV1 -INFO - login btn clicked
+2021-10-24 23:50:31,387 - inetBankingV1 -INFO - logout btn clicked
+2021-10-24 23:50:41,534 - inetBankingV1 -INFO - Logout test passed
+2021-10-24 23:58:07,516 - inetBankingV1 -INFO - URL is opened
+2021-10-24 23:58:08,144 - inetBankingV1 -INFO - Entered Username
+2021-10-24 23:58:08,355 - inetBankingV1 -INFO - Entered Password
+2021-10-24 23:58:13,902 - inetBankingV1 -INFO - Login Button Clicked
+2021-10-25 00:00:45,096 - inetBankingV1 -INFO - URL Opened
+2021-10-25 00:00:45,466 - inetBankingV1 -INFO - Entered username
+2021-10-25 00:00:45,679 - inetBankingV1 -INFO - Entered password
+2021-10-25 00:00:47,258 - inetBankingV1 -INFO - login btn clicked
+2021-10-25 00:00:48,425 - inetBankingV1 -INFO - logout btn clicked
+2021-10-25 00:00:58,539 - inetBankingV1 -INFO - Logout test passed
+2021-10-25 00:15:53,961 - inetBankingV1 -INFO - URL Opened
+2021-10-25 00:15:54,583 - inetBankingV1 -INFO - Entered username
+2021-10-25 00:15:54,703 - inetBankingV1 -INFO - Entered password
+2021-10-25 00:15:56,097 - inetBankingV1 -INFO - login btn clicked
+2021-10-25 00:15:56,919 - inetBankingV1 -INFO - logout btn clicked
+2021-10-25 00:16:07,057 - inetBankingV1 -INFO - Logout test passed
+2021-10-26 01:54:55,431 - inetBankingV1 -INFO - URL Opened
+2021-10-26 01:54:58,107 - inetBankingV1 -INFO - Entered username
+2021-10-26 01:54:58,303 - inetBankingV1 -INFO - Entered password
+2021-10-26 01:55:00,930 - inetBankingV1 -INFO - login btn clicked
+2021-10-26 01:55:03,003 - inetBankingV1 -INFO - logout btn clicked
+2021-10-26 01:55:13,184 - inetBankingV1 -INFO - Logout test passed
+2021-10-26 02:00:34,845 - inetBankingV1 -INFO - URL Opened
+2021-10-26 02:00:35,406 - inetBankingV1 -INFO - Entered username
+2021-10-26 02:00:35,517 - inetBankingV1 -INFO - Entered password
+2021-10-26 02:00:36,677 - inetBankingV1 -INFO - login btn clicked
+2021-10-26 02:00:37,646 - inetBankingV1 -INFO - logout btn clicked
+2021-10-26 02:00:47,781 - inetBankingV1 -INFO - Logout test passed

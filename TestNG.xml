@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="InetBankingV1">
+
+	<!-- Add reporting class in listeners -->
+	<listeners>
+		<listener class-name="com.inetbanking.utilities.Reporting" />
+	</listeners>
+
+	<!-- Add browsers -->
+	<test name="BankingApp Test">
+	
+		<parameter name="browser" value="firefox"/>
+	
+		<classes>
+			 <!--  Normal Test Cases -->
+			
+			<!-- <class name="com.inetbanking.testCases.TC_LoginTest_001"/>  -->
+			<class name="com.inetbanking.testCases.TC_logoutTest_002"/>
+			
+			<!-- <class name="com.inetbanking.testCases.TC_LoginDDT_003"/> -->
+			<!-- <class name="com.inetbanking.testCases.TC_AddCustomerTest_004"/> -->
+			<!--  <class name="com.inetbanking.testCases.TC_ElementsTests_005"/> -->
+			
+		</classes>
+	
+	</test>
+
+</suite>
